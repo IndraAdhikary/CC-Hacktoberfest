@@ -41,3 +41,5 @@ https://www.codechef.com/COOK118B/problems/CHEFRECP
 Three Friends:
 https://codeforces.com/problemset/problem/1272/A
 ( Head to folder for more details)
+
+Happy Coding!
